@@ -10,7 +10,7 @@
 
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](![logo](https://www.linkedin.com/in/jiteshshivgan/)) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (![logo](https://www.linkedin.com/in/jiteshshivgan/)) 
 
 # 💻 Tech Stack:
 ### Frontend  
